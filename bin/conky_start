@@ -1,0 +1,3 @@
+#!/bin/bash
+conky -c ~/.config/conky/left.conf
+conky -c ~/.config/conky/right.conf
